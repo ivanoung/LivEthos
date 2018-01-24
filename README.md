@@ -17,6 +17,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.0.2] - 2018 - 01 - 25
+### Changed
+- css of index-local-minimal line 98, changing background-image with url
+- Readded back the subscription link and the message panel for incoming emails
+
+### Removed
+- removing the "LivEthos" from the logo because instead of having no wording down below, it looks better with the wording down there where 
 
 ## [0.0.1] - 2018 - 01 - 23
 ### Note for current version
