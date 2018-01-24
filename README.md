@@ -16,8 +16,21 @@ All notable changes to this project will be documented in this file.
 
 
 ## [Unreleased]
+- Responsive design, to consider the possibility of having different screen size
 
-## [0.0.2] - 2018 - 01 - 25
+## [0.0.3] - 2018 - 01 - 24
+### Changed
+- Changed back to the icon with name, resized the two CSS files that are controlling the size of the logo
+- Changed and resize the background image for front page
+- Theme color: from #111517 to #6950a2
+
+### Removed
+- Removed <canvas></canvas> , more like commented it out (for the animation)
+- h1 company name
+- p - a session of the company bio
+
+
+## [0.0.2] - 2018 - 01 - 24
 ### Changed
 - css of index-local-minimal line 98, changing background-image with url
 - Readded back the subscription link and the message panel for incoming emails
