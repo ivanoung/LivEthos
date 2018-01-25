@@ -1,6 +1,5 @@
 # LivEthos
-Repo for keeping track the dev progress of LivEthos's homepage
-
+Repo for keeping track the dev progress of [LivEthos HomePage](https://www.livethos.com)
 
 # LivEthos Website repo
 ##Change log
