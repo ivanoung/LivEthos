@@ -9,11 +9,6 @@ All notable changes to this project will be documented in this file.
 ## Useful links
 [cPanel htaccess](https://www.inmotionhosting.com/support/website/htaccess/htaccess-change-index-page)
 
-### Added
-### Changed
-### Removed
-
-
 ## [Unreleased]
 - Responsive design, to consider the possibility of having different screen size
 
@@ -27,7 +22,6 @@ All notable changes to this project will be documented in this file.
 - Removed <canvas></canvas> , more like commented it out (for the animation)
 - h1 company name
 - p - a session of the company bio
-
 
 ## [0.0.2] - 2018 - 01 - 24
 ### Changed
